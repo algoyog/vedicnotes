@@ -38,6 +38,7 @@ Lagna Nakshatra - How your mind reacts
 
 Soorya Nakshatra - How you influence world affairs
 
+Look at the lord of moons placement
 
 |#|Name|Rasi|Lord|Deity|Characters
 |-|-|-|-|-|-|
