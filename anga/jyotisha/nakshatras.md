@@ -95,7 +95,8 @@ Pushkara and Shunya nakshatra
 |6|Sadha|Accomplish, Dream, Ego|Rahu| Worship durga and get away with false ego.
 |7|Vadha|Destroy, Kill, Vanquish|Jupiter|Guru is responsible for prana. Killing will come based on the lord of the 7th nakshatra. Pray to jupiter to extend prana as it is the protector. Venus is 7th lord - Financial death. If sun is lord - spiritual death. If mercury is lord, be cautious about work, subordinates. If ketu, rashness - you are your own. dont succumb to pressure. if mars is lord of 7th, dont get angry. IF rahu is lord of 7th, dont cheat and dont get cheated.
 |8|Mitra|Assistant, Helper, |Saturn| God is a helper. So definition of god comes from here. 
-|9|Ati-Mitra|He who deserves to be worshipped, friend| Mercury|He will do what is right for you.
+|9|Ati-Mitra|He who deserves to be worshipped, friend| Mercury|He will do what is right for you. Hand of god. 
+dont mess with this lord
 
 ### Bhur [Current and Happening]
 |#|Short|Description|
