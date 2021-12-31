@@ -93,8 +93,8 @@ Pushkara and Shunya nakshatra
 |Kshema|Resting, good, easy, Healing, Home|Moon |Gowri is the god.
 |Pratyak|Challenge|Mars|There is a challenger to you. For eg, if Aswini is the 5th for a persons janma, as aswinis lord is ketu, the person will reach with panic when challenged. Needs to cool mars to improve response to challenges|
 |Sadha|Accomplish, Dream, Ego|Rahu| Worship durga and get away with false ego.
-|Vadha|Destroy, Kill, Vanquish|Jupiter|Guru is responsible for prana. Killing will come based on the lord of the 7th nakshatra. Pray to jupiter to extend prana as it is the protector. Venus is 7th lord - Financial death. If sun is lord - spiritual death. If mercury is lord, be cautious about work, subordinates.
-|Mitra|-|
+|Vadha|Destroy, Kill, Vanquish|Jupiter|Guru is responsible for prana. Killing will come based on the lord of the 7th nakshatra. Pray to jupiter to extend prana as it is the protector. Venus is 7th lord - Financial death. If sun is lord - spiritual death. If mercury is lord, be cautious about work, subordinates. If ketu, rashness - you are your own. dont succumb to pressure. if mars is lord of 7th, dont get angry. IF rahu is lord of 7th, dont cheat and dont get cheated.
+|Mitra|Assistant, Helper, |
 |Ati-Mitra|-|
 
 ### Bhur [Current and Happening]
