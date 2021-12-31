@@ -87,7 +87,7 @@ Pushkara and Shunya nakshatra
 
 ||Meaning|Remarks|
 |-|-|-|
-|Janma|Birth, Start,|eg, if the lord of this nakshatra is rahu, you start things suddently. IF saturn is lord of nakshatra, delayed start. if jupiter, good start, mercury - fun start, venus - start when relationship asks u to start<br> **ganesha** is the lord of starting|
+|Janma|Birth, Start,|eg, if the lord of this nakshatra is rahu, you start things suddently. If ketu, mistake starts. If saturn is lord of nakshatra, delayed start. if jupiter, good start, mercury - fun start, venus - start when relationship asks u to start<br> **ganesha** is the lord of starting|
 |Sampat|-|
 |Vipat|-|
 |Kshema|-|
