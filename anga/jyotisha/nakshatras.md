@@ -85,14 +85,14 @@ Pushkara and Shunya nakshatra
 
 > Nava - 9, Tara - stars
 
-||Meaning|Remarks|
-|-|-|-|
-|Janma|Birth, Start,|eg, if the lord of this nakshatra is rahu, you start things suddently. If ketu, mistake starts. If saturn is lord of nakshatra, delayed start. if jupiter, good start, mercury - fun start, venus - start when relationship asks u to start<br> **ganesha** is the lord of starting|
-|Sampat|-|
-|Vipat|-|
-|Kshema|-|
-|Pratyak|-|
-|Sadha|-|
+||Meaning|Natural Lord|Remarks|
+|-|-|-|-|
+|Janma|Birth, Start,|Ketu|eg, if the lord of this nakshatra is rahu, you start things suddently. If ketu, mistake starts. If saturn is lord of nakshatra, delayed start. if jupiter, good start, mercury - fun start, venus - start when relationship asks u to start<br> **ganesha** is the lord of starting|
+|Sampat|Wealth|Venus|Lakshmi is the god associated|
+|Vipat|Misfortunes|Sun|When you have misfortunes pray to Sun|
+|Kshema|Resting, good, easy, Healing, Home|Moon |Gowri is the god.
+|Pratyak|Challenge|Mars|There is a challenger to you. For eg, if Aswini is the 5th for a persons janma, as aswinis lord is ketu, the person will reach with panic when challenged. Needs to cool mars to improve response to challenges|
+|Sadha|Accomplish, Dream, Ego|Rahu| Worship durga and get away with false ego.
 |Vadha|-|
 |Mitra|-|
 |Ati-Mitra|-|
