@@ -26,6 +26,10 @@ Each pada is associated with FEAW element in cyclic 1:1 association. For eg, Ash
 
 ## The Nakshatras
 
+Trine - 9*4=36 padas, 120D. So grand trine
+
+Bhur Bhuva Swa
+
 |#|Name|Rasi|Lord|Deity|Characters
 |-|-|-|-|-|-|
 |1|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/01-Ashwini.md)|
@@ -60,3 +64,5 @@ Each pada is associated with FEAW element in cyclic 1:1 association. For eg, Ash
 
 
 ## Nava-Tara
+
+Nava - 9, Tara - stars
