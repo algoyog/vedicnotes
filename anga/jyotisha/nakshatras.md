@@ -2,7 +2,7 @@
 
 > **nak** - Night, **shatra** - Zone
 
-> There are **27** nakshatras. As moon takes approx 27 days to move around the zodiac in average. we have this calibration. There are **4 padas** per nakshatra. So **27*4 = 108**.
+> There are **27** nakshatras. As moon takes approx 27 days to move around the zodiac in average. we have this calibration.
 
  Moons exhaltation is in **Krithika**. This is a critical nakshatra for humans as humans have evolved 6th sense. *Gayathri mantra* is associated with this nakshatra.
 
@@ -18,10 +18,17 @@ Moon is lord of night, Sun is lord of the day.
 > 4th house represents Mother (moon)
 >> A Nakshatra is 13D20M. So 13,20/4 = 3D20M.
 
+WE ARE JUST REPRESENTED BY **1 PADA**
+
+> There are **4 padas** per nakshatra. So **27*4 = 108**. There are **9 padas** per rasi. So **9*12 = 108**
+
 ## The Nakshatras
 
 |#|Name|Rasi|Lord|Deity|Characters|Remarks
 |-|-|-|-|-|-|-|
 |1|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|-|
+
+
+
 
 ## Navatara Chakra
