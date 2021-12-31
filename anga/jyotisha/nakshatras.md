@@ -41,6 +41,8 @@ Pushkara and Shunya nakshatra
 
 >> For eg, if the moon is placed in naks which is owned by rahu. The person should look to go out to foreign.
 
+>> For eg. if moon is placed in moons naks. Take care of your family (home, work, etc)
+
 Lagna Nakshatra - How You/your mind reacts [Inside world]. For eg, how will you react and you being differnt from Other presidents will be due to Lagna.
 
 Soorya Nakshatra - How you influence world affairs
