@@ -1,1 +1,1 @@
-# vedicnotes
+# Vedicnotes
