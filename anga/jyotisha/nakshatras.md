@@ -26,11 +26,37 @@ Each pada is associated with FEAW element in cyclic 1:1 association. For eg, Ash
 
 ## The Nakshatras
 
-|#|Name|Rasi|Lord|Deity|Characters|Remarks
-|-|-|-|-|-|-|-|
-|1|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|-|
+|#|Name|Rasi|Lord|Deity|Characters
+|-|-|-|-|-|-|
+|1|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|2|Bharani|Mesham|Sukran|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|3|Krithika|Mesham|Soorya|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|4|Rohini|Mesham|Chandra|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|5|Mrigasesham|Mesham|Mangala(Mars)|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|6|Ardhra/Tiruvadhirai||Rahu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|7|Punarvasu/Punarpoosam|Mesham|Guru|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|8|Poosam|Mesham|Shani|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|9|Ashtalesh/Aayilyam|Mesham|Bhudha(Mercury)|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|10|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|11|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|12|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|13|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|14|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|15|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|16|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|17|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|18|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|19|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|20|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|21|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|22|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|23|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|24|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|25|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|26|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
+|27|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/00-Ashwini.md)|
 
 
 
 
-## Navatara Chakra
+## Nava-Tara
