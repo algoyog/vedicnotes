@@ -32,13 +32,19 @@ Bhur Bhuva Swa
 
 Pushkara and Shunya nakshatra
 
-Janma Nakshatra - What is happening outside
+**Janma Nakshatra** - What is happening outside [Outside World]. For eg, assume you have become president. Becoming president is due to janma
+> Look at the lord of moons placement. The nakshatra where moon is placed is the outside world for you. The lord will influence the life of the persons outside world. 
 
-Lagna Nakshatra - How your mind reacts
+>> For eg. assume moon is in moola. Ketu is the lord, ketu is headless and introvert. It will make you look into and be spiritual.
+
+>> For eg, if the moon is placed in Venus, marriage will help in life.
+
+>> For eg, if the moon is placed in naks which is owned by rahu. The person should look to go out to foreign.
+
+Lagna Nakshatra - How You/your mind reacts [Inside world]. For eg, how will you react and you being differnt from Other presidents will be due to Lagna.
 
 Soorya Nakshatra - How you influence world affairs
 
-Look at the lord of moons placement
 
 |#|Name|Rasi|Lord|Deity|Characters
 |-|-|-|-|-|-|
@@ -75,9 +81,9 @@ Look at the lord of moons placement
 
 ## Nava-Tara
 
-Nava - 9, Tara - stars
+> Nava - 9, Tara - stars
 
-### Bhur
+### Bhur [Current and Happening]
 |#|Short|Description|
 |-|-|-|
 |1|-|-|
@@ -90,31 +96,31 @@ Nava - 9, Tara - stars
 |8|-|-|
 |9|-|-|
 
-### Bhuva
+### Bhuva [Future]
 |#|Short|Description|
 |-|-|-|
-|1|-|-|
-|2|-|-|
-|3|-|-|
-|4|-|-|
-|5|-|-|
-|6|-|-|
-|7|-|-|
-|8|-|-|
-|9|-|-|
+|10|-|-|
+|11|-|-|
+|12|-|-|
+|13|-|-|
+|14|-|-|
+|15|-|-|
+|16|-|-|
+|17|-|-|
+|18|-|-|
 
 ### Sva
 |#|Short|Description|
 |-|-|-|
-|1|-|-|
-|2|-|-|
-|3|-|-|
-|4|-|-|
-|5|-|-|
-|6|-|-|
-|7|-|-|
-|8|-|-|
-|9|-|-|
+|19|-|-|
+|20|-|-|
+|21|-|-|
+|22|-|-|
+|23|-|-|
+|24|-|-|
+|25|-|-|
+|26|-|-|
+|27|-|-|
 
 
 ## Tatva Chakra
