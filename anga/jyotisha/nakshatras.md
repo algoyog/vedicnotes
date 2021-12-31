@@ -85,17 +85,17 @@ Pushkara and Shunya nakshatra
 
 > Nava - 9, Tara - stars
 
-||Meaning|Natural Lord|Remarks|
-|-|-|-|-|
-|Janma|Birth, Start,|Ketu|eg, if the lord of this nakshatra is rahu, you start things suddently. If ketu, mistake starts. If saturn is lord of nakshatra, delayed start. if jupiter, good start, mercury - fun start, venus - start when relationship asks u to start<br> **ganesha** is the lord of starting|
-|Sampat|Wealth|Venus|Lakshmi is the god associated|
-|Vipat|Misfortunes|Sun|When you have misfortunes pray to Sun|
-|Kshema|Resting, good, easy, Healing, Home|Moon |Gowri is the god.
-|Pratyak|Challenge|Mars|There is a challenger to you. For eg, if Aswini is the 5th for a persons janma, as aswinis lord is ketu, the person will reach with panic when challenged. Needs to cool mars to improve response to challenges|
-|Sadha|Accomplish, Dream, Ego|Rahu| Worship durga and get away with false ego.
-|Vadha|Destroy, Kill, Vanquish|Jupiter|Guru is responsible for prana. Killing will come based on the lord of the 7th nakshatra. Pray to jupiter to extend prana as it is the protector. Venus is 7th lord - Financial death. If sun is lord - spiritual death. If mercury is lord, be cautious about work, subordinates. If ketu, rashness - you are your own. dont succumb to pressure. if mars is lord of 7th, dont get angry. IF rahu is lord of 7th, dont cheat and dont get cheated.
-|Mitra|Assistant, Helper, |
-|Ati-Mitra|-|
+|||Meaning|Natural Lord|Remarks|
+|-|-|-|-|-|
+|1|Janma|Birth, Start,|Ketu|eg, if the lord of this nakshatra is rahu, you start things suddently. If ketu, mistake starts. If saturn is lord of nakshatra, delayed start. if jupiter, good start, mercury - fun start, venus - start when relationship asks u to start<br> **ganesha** is the lord of starting|
+|2|Sampat|Wealth|Venus|Lakshmi is the god associated|
+|3|Vipat|Misfortunes|Sun|When you have misfortunes pray to Sun|
+|4|Kshema|Resting, good, easy, Healing, Home|Moon |Gowri is the god.
+|5|Pratyak|Challenge|Mars|There is a challenger to you. For eg, if Aswini is the 5th for a persons janma, as aswinis lord is ketu, the person will reach with panic when challenged. Needs to cool mars to improve response to challenges|
+|6|Sadha|Accomplish, Dream, Ego|Rahu| Worship durga and get away with false ego.
+|7|Vadha|Destroy, Kill, Vanquish|Jupiter|Guru is responsible for prana. Killing will come based on the lord of the 7th nakshatra. Pray to jupiter to extend prana as it is the protector. Venus is 7th lord - Financial death. If sun is lord - spiritual death. If mercury is lord, be cautious about work, subordinates. If ketu, rashness - you are your own. dont succumb to pressure. if mars is lord of 7th, dont get angry. IF rahu is lord of 7th, dont cheat and dont get cheated.
+|8|Mitra|Assistant, Helper, |Saturn| God is a helper. So definition of god comes from here. 
+|9|Ati-Mitra|He who deserves to be worshipped, friend| Mercury|He will do what is right for you.
 
 ### Bhur [Current and Happening]
 |#|Short|Description|
