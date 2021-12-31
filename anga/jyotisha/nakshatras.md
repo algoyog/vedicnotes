@@ -20,7 +20,7 @@ Moon is lord of night, Sun is lord of the day.
 
 WE ARE JUST REPRESENTED BY **1 PADA**
 
-> There are **4 padas** per nakshatra. So **27*4 = 108**. There are **9 padas** per rasi. So **9*12 = 108**
+> There are **4 padas** per nakshatra (total of 27 nakshatras). So **27*4 = 108**. There are **9 padas** per rasi(total of 12 rasis). So **9*12 = 108**
 
 ## The Nakshatras
 
