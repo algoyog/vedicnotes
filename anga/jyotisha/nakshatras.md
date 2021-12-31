@@ -26,7 +26,7 @@ Each pada is associated with FEAW element in cyclic 1:1 association. For eg, Ash
 
 ## The Nakshatras
 
-Trine - 9*4=36 padas, 120D. So grand trine
+Trine - 9*4=36 padas, 120D. So grand trine. End of 36 padhas is Ganda(Radical)-Antha (End)
 
 Bhur Bhuva Swa
 
