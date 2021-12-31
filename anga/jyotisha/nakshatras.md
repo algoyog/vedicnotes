@@ -32,7 +32,7 @@ Bhur Bhuva Swa
 
 Pushkara and Shunya nakshatra
 
-**Janma Nakshatra** - What is happening outside [Outside World]. For eg, assume you have become president. Becoming president is due to janma
+**Janma Nakshatra** - What is happening outside [Outside World]. WHAT YOU WORKON.  For eg, 10 Downing Street is the Janma nakshatra of brit PM
 > Look at the lord of moons placement. The nakshatra where moon is placed is the outside world for you. The lord will influence the life of the persons outside world. 
 
 >> For eg. assume moon is in moola. Ketu is the lord, ketu is headless and introvert. It will make you look into and be spiritual.
@@ -43,9 +43,9 @@ Pushkara and Shunya nakshatra
 
 >> For eg. if moon is placed in moons naks. Take care of your family (home, work, etc)
 
-Lagna Nakshatra - How You/your mind reacts [Inside world]. For eg, how will you react and you being differnt from Other presidents will be due to Lagna.
+**Lagna Nakshatra** - How You/your mind reacts [Inside world]. HOW YOU WORK. For eg, how will you work and you being differnt from Other primeminister will be due to Lagna.
 
-Soorya Nakshatra - How you influence world affairs
+**Soorya Nakshatra** - How you influence world affairs
 
 
 |#|Name|Rasi|Lord|Deity|Characters
