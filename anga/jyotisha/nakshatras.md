@@ -30,6 +30,15 @@ Trine - 9*4=36 padas, 120D. So grand trine. End of 36 padhas is Ganda(Radical)-A
 
 Bhur Bhuva Swa
 
+Pushkara and Shunya nakshatra
+
+Janma Nakshatra - What is happening outside
+
+Lagna Nakshatra - How your mind reacts
+
+Soorya Nakshatra - How you influence world affairs
+
+
 |#|Name|Rasi|Lord|Deity|Characters
 |-|-|-|-|-|-|
 |1|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/01-Ashwini.md)|
@@ -66,3 +75,18 @@ Bhur Bhuva Swa
 ## Nava-Tara
 
 Nava - 9, Tara - stars
+
+
+## Tatva Chakra
+
+### Pancha Pakshi
+
+Garuda assigns tasks to others
+
+|Bird|Tattva|Character|
+|-|-|-|
+|Vulture| Earth(Prithvi)| The How. Meditate on vulture and we will find a way. Ability to conserve. Vulture will scrape the skin till last|
+|Owl|Water|Lakshmi. Nightsight. Can see through things in heart.Healing|
+|Crow|Agni|Choosy, Intelligent, cunning. If you are lost, it will lead you|
+|Rooster|Vayu|Strong, timely, discipline|
+|Peackock|Akasha|Spiritual|   
