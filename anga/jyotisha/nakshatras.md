@@ -22,6 +22,8 @@ WE ARE JUST REPRESENTED BY **1 PADA**
 
 > There are **4 padas** per nakshatra (total of 27 nakshatras). So **27*4 = 108**. There are **9 padas** per rasi(total of 12 rasis). So **9*12 = 108**
 
+Each pada is associated with FEAW element in cyclic 1:1 association. For eg, Ashwini's 4 Padas has FEAW for each pada and Bharani 's 4 Padas has FEAW for each pada . Krithikas first pada is Fire, so the MAX number of fire padas is 3 in Mesham(Aries), So aries is fire influenced sign
+
 ## The Nakshatras
 
 |#|Name|Rasi|Lord|Deity|Characters|Remarks
