@@ -8,3 +8,4 @@
 - Foreign
 - Mystical
 - Vertically up. So Look Up to God, big power
+- Confusing

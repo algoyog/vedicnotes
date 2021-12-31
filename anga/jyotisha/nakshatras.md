@@ -85,6 +85,18 @@ Pushkara and Shunya nakshatra
 
 > Nava - 9, Tara - stars
 
+||Meaning|Remarks|
+|-|-|-|
+|Janma|Birth, Start,|eg, if the lord of this nakshatra is rahu, you start things suddently. IF saturn is lord of nakshatra, delayed start. if jupiter, good start, mercury - fun start, venus - start when relationship asks u to start<br> **ganesha** is the lord of starting|
+|Sampat|-|
+|Vipat|-|
+|Kshema|-|
+|Pratyak|-|
+|Sadha|-|
+|Vadha|-|
+|Mitra|-|
+|Ati-Mitra|-|
+
 ### Bhur [Current and Happening]
 |#|Short|Description|
 |-|-|-|
