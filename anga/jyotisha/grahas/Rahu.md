@@ -4,3 +4,4 @@
 - Foreign
 - Outgoing
 - Extrovert
+- Sudden
