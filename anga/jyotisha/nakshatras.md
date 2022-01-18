@@ -26,6 +26,14 @@ Each pada is associated with FEAW element in cyclic 1:1 association. For eg, Ash
 
 ## The Nakshatras
 
+
+Every Nakshatra has the following characters
+- Name
+- Lord
+- Symbol: Represents the 7th House(Rasi) from that nakshatra Rasi. The desire of the nakshatra
+- Deity
+- Nature 
+
 Trine - 9*4=36 padas, 120D. So grand trine. End of 36 padhas is Ganda(Radical)-Antha (End)
 
 Bhur Bhuva Swa
@@ -48,11 +56,11 @@ Pushkara and Shunya nakshatra
 **Soorya Nakshatra** - How you influence world affairs
 
 
-|#|Name|Rasi|Lord|Deity|Characters
-|-|-|-|-|-|-|
-|1|Ashwini|Mesham|Ketu|Ashwini kumars|[About](./nakshatras/01-Ashwini.md)|
-|2|Bharani|Mesham|Sukran|Ashwini kumars|[About](./nakshatras/02-Bharani.md)|
-|3|Krithika|Mesham(1)/Vrishabham|Soorya|Ashwini kumars|[About](./nakshatras/03-Karthika.md)|
+|#|Name|Rasi|Symbol|Lord|Deity|Characters|Planetary Events|
+|-|-|-|-|-|-|-|-|
+|1|Ashwini|Mesham|Horse|Ketu|Ashwini kumars|[About](./nakshatras/01-Ashwini.md)|Sun Exhalts|
+|2|Bharani|Mesham|Yoni|Sukran|Yama|[About](./nakshatras/02-Bharani.md)|Saturn Debility|
+|3|Krithika|Mesham(1)/Vrishabham|Soorya|Spear/Staff|[About](./nakshatras/03-Karthika.md)|Moon Exhalts|
 |4|Rohini|Vrishabham|Chandra|Ashwini kumars|[About](./nakshatras/04-Rohini.md)|
 |5|Mrigasesham|Vrishabham(1,2)/Mithunam|Mangala(Mars)|Ashwini kumars|[About](./nakshatras/05-Mriga.md)|
 |6|Ardhra/Tiruvadhirai|Mithunam|Rahu|Ashwini kumars|[About](./nakshatras/06-Ardhra.md)|
@@ -97,18 +105,20 @@ Pushkara and Shunya nakshatra
 |8|Mitra|Assistant, Helper, |Saturn| God is a helper. So definition of god comes from here. 
 |9|Ati-Mitra|He who deserves to be worshipped, friend, protector| Mercury|He will do what is right for you. Hand of god. dont mess with this lord
 
+Below is the tables that will help in associating the bhavas based on the janma/lagna or any other reference nakshatra.
+
 ### Bhur [Current and Happening]
-|#|Short|Description|
-|-|-|-|
-|1|-|-|
-|2|-|-|
-|3|-|-|
-|4|-|-|
-|5|-|-|
-|6|-|-|
-|7|-|-|
-|8|-|-|
-|9|-|-|
+|#|Short|Kala Chakra|Description|
+|-|-|-|-|
+|1|Janma|Aswini|Pray to this when there is no way as aswini will is a healer. |
+|2|Samapath|Bharani|Responsible for food and longevity.|
+|3|Vipat|Krithika|
+|4|Kshema|-|
+|5|Pratyak|-|
+|6|Sadhak|-|
+|7|Vadha|-|
+|8|Mitra|-|
+|9|Ati-Mitra|-|
 
 ### Bhuva [Future]
 |#|Short|Description|
